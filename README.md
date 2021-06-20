@@ -1,17 +1,3 @@
-### Hi! I'm Dhruv, an aspiring full stack web developer and AI enthusiast from Mumbai, India
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
-### Reach Out To Me
-![dhruv-jimulia-sys | GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Nishant | LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -29,3 +15,16 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
+
+### Reach Out To Me
+![dhruv-jimulia-sys | GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Nishant | LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+-->
