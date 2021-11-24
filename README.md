@@ -1,5 +1,5 @@
 ### About Me
-I am Dhruv Jimulia, an undergraduate first-year student studying Computing at Imperial College London.
+I am Dhruv Jimulia, an undergraduate first-year student studying Computing at Imperial College London who is enthusiastic about machine learning, full-stack development, and software engineering.
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
